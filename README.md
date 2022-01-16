@@ -13,7 +13,7 @@ Contents
 
 ## Introduction
 Book practice project from Problem Solving With C++ Chapter 8. Project 6.
-A program reads a line of text and replaces all separate integers (NOT part of a word) with x's. Demonstrates ability to read, edit, and write to files in c++.
+A program reads a line of text and replaces all separate integers (NOT part of a word) with x's. Demonstrates ability to create prompts, read inputs, edit, and output resultes in c++.
 Written using Microsoft Visual Studio. 
 
 ## Algorithm
